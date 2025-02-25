@@ -15,6 +15,22 @@
       "category": "entertainment",
       "price": 20,
       "createdAt": "2021-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de App",
+      "type": "income",
+      "category": "dev",
+      "price": 3450,
+      "createdAt": "2021-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "description": "Lanche na padaria",
+      "type": "outcome",
+      "category": "entertainment",
+      "price": 432,
+      "createdAt": "2021-01-01T00:00:00.000Z"
     }
   ]
 }
